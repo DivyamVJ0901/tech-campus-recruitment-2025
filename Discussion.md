@@ -1,0 +1,1 @@
+First I tried C++ approach for better performace but couldn't able to fetch the log file due to sime error . Then , I implemented a Python script that uses binary search to efficiently locate the start and end positions of logs for a specific date in a large log file.The script reads the file in chunks to minimize memory usage and writes the extracted logs to an output file.
